@@ -46,7 +46,7 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 ---
 
 ### 6️⃣ **Détails des dépôts et performances**
-[![Statistiques détaillées](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ton-nom-utilisateur&theme=radical)](https://github.com/ton-nom-utilisateur)
+[![Statistiques détaillées](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dialsyp&theme=radical)](https://github.com/ton-nom-utilisateur)
 
 ---
 
