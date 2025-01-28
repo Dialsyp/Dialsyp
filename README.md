@@ -36,10 +36,6 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 
 ---
 
-### 5️⃣ **Statistiques avancées sur mes commits**
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=dialsyp&theme=radical)
-
----
 
 ### 6️⃣ **Détails des dépôts et performances**
 [![Statistiques détaillées](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dialsyp&theme=radical)](https://github.com/dialsyp)
