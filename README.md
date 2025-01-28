@@ -21,27 +21,27 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 ## 📊 Statistiques GitHub
 
 ### 1️⃣ **Graphique global de mes contributions**
-![Contributions](https://github-readme-stats.vercel.app/api?username=ton-nom-utilisateur&show_icons=true&count_private=true&theme=radical)
+![Contributions](https://github-readme-stats.vercel.app/api?username=dialsyp&show_icons=true&count_private=true&theme=radical)
 
 ---
 
 ### 2️⃣ **Langages principaux utilisés**
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-nom-utilisateur&layout=compact&theme=radical&langs_count=10)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=dialsyp&layout=compact&theme=radical&langs_count=10)
 
 ---
 
 ### 3️⃣ **Activité GitHub (Graphique dynamique des contributions)**
-![Graphique d'activité](https://github-readme-activity-graph.cyclic.app/graph?username=ton-nom-utilisateur&theme=radical)
+![Graphique d'activité](https://github-readme-activity-graph.cyclic.app/graph?username=dialsyp&theme=radical)
 
 ---
 
 ### 4️⃣ **Mes trophées GitHub**
-[![Trophées](https://github-profile-trophy.vercel.app/?username=ton-nom-utilisateur&theme=onedark)](https://github.com/ton-nom-utilisateur)
+[![Trophées](https://github-profile-trophy.vercel.app/?username=dialsyp&theme=onedark)](https://github.com/ton-nom-utilisateur)
 
 ---
 
 ### 5️⃣ **Statistiques avancées sur mes commits**
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=ton-nom-utilisateur&theme=radical)
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=dialsyp&theme=radical)
 
 ---
 
@@ -52,18 +52,18 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 
 ### 7️⃣ **Graphiques de contribution par sujet**
 #### 💡 Contributions récentes
-[![Récentes Contributions](https://github-profile-summary-cards.vercel.app/api/cards/recent-activity?username=ton-nom-utilisateur&theme=radical)](https://github.com/ton-nom-utilisateur)
+[![Récentes Contributions](https://github-profile-summary-cards.vercel.app/api/cards/recent-activity?username=dialsyp&theme=radical)](https://github.com/ton-nom-utilisateur)
 
 #### 🔧 Commits par langage
-[![Commits par langage](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ton-nom-utilisateur&theme=radical)](https://github.com/ton-nom-utilisateur)
+[![Commits par langage](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dialsyp&theme=radical)](https://github.com/ton-nom-utilisateur)
 
 #### 🖥️ Langages utilisés dans mon code
-[![Langages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ton-nom-utilisateur&theme=radical)](https://github.com/ton-nom-utilisateur)
+[![Langages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dialsyp&theme=radical)](https://github.com/ton-nom-utilisateur)
 
 ---
 
 ### 8️⃣ **Contribution hebdomadaire**
-![Contribution hebdomadaire](https://github-contributor-stats.vercel.app/api?username=ton-nom-utilisateur&theme=radical)
+![Contribution hebdomadaire](https://github-contributor-stats.vercel.app/api?username=dialsyp&theme=radical)
 
 ---
 
