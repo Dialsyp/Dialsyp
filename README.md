@@ -12,8 +12,8 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 ## 🚀 Mes compétences
 - **Langages de programmation** : Java, JavaScript, TypeScript, Python  
 - **Développement front-end** : React, React Native, Next.js  
-- **Développement back-end** : Spring Boot, NestJS, Node.js  
-- **DevOps et Cloud** : Docker, Kubernetes, CI/CD, AWS, Azure  
+- **Développement back-end** : Spring Boot, NestJS  
+- **DevOps et Cloud** : Docker, Kubernetes, CI/CD  
 - **Bases de données** : MySQL, PostgreSQL, MongoDB  
 
 ---
