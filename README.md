@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-Je suis **[Ton Prénom et Nom]**, un développeur-concepteur spécialisé dans le développement logiciel et l'architecture des systèmes d'information.  
+Je suis **Syphax DIAL**, un développeur-concepteur spécialisé dans le développement logiciel et l'architecture des systèmes d'information.  
 Actuellement, je suis en alternance pour valider un **Master en Management, Architecture et Applications Logiciels des Systèmes d'Information**.  
 
 ---
