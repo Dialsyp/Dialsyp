@@ -42,10 +42,6 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 
 ---
 
-### 7️⃣ **Graphiques de contribution par sujet**
-#### 💡 Contributions récentes
-[![Récentes Contributions](https://github-profile-summary-cards.vercel.app/api/cards/recent-activity?username=dialsyp&theme=radical)](https://github.com/dialsyp)
-
 #### 🔧 Commits par langage
 [![Commits par langage](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dialsyp&theme=radical)](https://github.com/dialsyp)
 
