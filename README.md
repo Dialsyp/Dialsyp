@@ -30,10 +30,6 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 
 ---
 
-### 3️⃣ **Activité GitHub (Graphique dynamique des contributions)**
-![Graphique d'activité](https://github-readme-activity-graph.cyclic.app/graph?username=dialsyp&theme=radical)
-
----
 
 ### 4️⃣ **Mes trophées GitHub**
 [![Trophées](https://github-profile-trophy.vercel.app/?username=dialsyp&theme=onedark)](https://github.com/ton-nom-utilisateur)
