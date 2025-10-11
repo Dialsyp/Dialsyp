@@ -54,13 +54,6 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 
 ---
 
-## 📦 Projets récents
-- 🚀 **[Nom du projet 1](https://github.com/ton-nom-utilisateur/projet-1)** : Description rapide.  
-- 📱 **[Nom du projet 2](https://github.com/ton-nom-utilisateur/projet-2)** : Description rapide.  
-- 🌐 **[Nom du projet 3](https://github.com/ton-nom-utilisateur/projet-3)** : Description rapide.  
-
----
-
 ## 📫 Me contacter
 - **LinkedIn** : [Ton profil LinkedIn](https://www.linkedin.com/in/ton-lien-linkedin)  
 - **Email** : [ton-email@example.com](mailto:ton-email@example.com)  
