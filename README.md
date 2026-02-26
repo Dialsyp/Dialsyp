@@ -55,8 +55,8 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 ---
 
 ## 📫 Me contacter
-- **LinkedIn** : [Ton profil LinkedIn](https://www.linkedin.com/in/ton-lien-linkedin)  
-- **Email** : [ton-email@example.com](mailto:ton-email@example.com)  
+- **LinkedIn** : [Ton profil LinkedIn](www.linkedin.com/in/syphaxdial)  
+- **Email** : [ton-email@example.com](mailto:dialsyphax@gmail.com)  
 
 ---
 
