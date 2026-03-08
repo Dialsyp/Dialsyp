@@ -25,14 +25,9 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 
 ---
 
-### 8️⃣ **Contribution hebdomadaire**
-![Contribution hebdomadaire](https://github-contributor-stats.vercel.app/api?username=dialsyp&theme=radical)
-
----
-
 ## 📫 Me contacter
-- **LinkedIn** : [Ton profil LinkedIn](www.linkedin.com/in/syphaxdial)  
-- **Email** : [ton-email@example.com](mailto:dialsyphax@gmail.com)  
+- **LinkedIn** : [Ton profil Syphax Dial](www.linkedin.com/in/syphaxdial)  
+- **Email** : [dialsyphax@gmail.com](mailto:dialsyphax@gmail.com)  
 
 ---
 
