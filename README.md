@@ -17,30 +17,6 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 
 ---
 
-## 📊 Statistiques GitHub
-
-### 1️⃣ **Graphique global de mes contributions**
-![Contributions](https://github-readme-stats.vercel.app/api?username=dialsyp&show_icons=true&count_private=true&theme=radical)
-
----
-
-### 2️⃣ **Langages principaux utilisés**
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=dialsyp&layout=compact&theme=radical&langs_count=10)
-
----
-
-
-### 4️⃣ **Mes trophées GitHub**
-[![Trophées](https://github-profile-trophy.vercel.app/?username=dialsyp&theme=onedark)](https://github.com/ton-nom-utilisateur)
-
----
-
-
-### 6️⃣ **Détails des dépôts et performances**
-[![Statistiques détaillées](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dialsyp&theme=radical)](https://github.com/dialsyp)
-
----
-
 #### 🔧 Commits par langage
 [![Commits par langage](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dialsyp&theme=radical)](https://github.com/dialsyp)
 
