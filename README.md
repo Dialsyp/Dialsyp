@@ -26,7 +26,7 @@ Actuellement, je suis en alternance pour valider un **Master en Management, Arch
 ---
 
 ## 📫 Me contacter
-- **LinkedIn** : [Ton profil Syphax Dial](www.linkedin.com/in/syphaxdial)  
+- **LinkedIn** : [Syphax Dial](www.linkedin.com/in/syphaxdial)  
 - **Email** : [dialsyphax@gmail.com](mailto:dialsyphax@gmail.com)  
 
 ---
